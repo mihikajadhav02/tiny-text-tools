@@ -6,6 +6,8 @@ A cozy, retro-inspired web application featuring 4 simple text transformation ut
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue?style=flat-square&logo=typescript)
 ![Tests](https://img.shields.io/badge/tests-30%20passing-green?style=flat-square)
 
+Link to deployed webapp on Vercel: ![Tiny Text Tools](https://tiny-text-tools.vercel.app)
+
 ## ✨ Features
 
 ### Text Transformations
