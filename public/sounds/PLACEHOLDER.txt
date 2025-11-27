@@ -1,0 +1,11 @@
+IMPORTANT: Audio files need to be added manually
+
+Please add the following files to this directory:
+- typewriter-key.mp3
+- typewriter-click.mp3
+
+The SoundManager will gracefully handle missing files and the application
+will continue to work without sound effects.
+
+See README.md in this directory for more information on where to find
+suitable typewriter sound effects.

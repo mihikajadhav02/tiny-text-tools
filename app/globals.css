@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-paper: #F5F1E8;
+  --text-primary: #2D2D2D;
+  --text-secondary: #5A5A5A;
+  --button-bg: #E8E4D9;
+  --button-hover: #DDD9CC;
+  --button-border: #C4BFB0;
+  --accent: #8B7355;
+  --shadow: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  background-color: var(--bg-paper);
+  color: var(--text-primary);
+}
+
+@layer base {
+  * {
+    @apply font-typewriter;
+  }
+}
